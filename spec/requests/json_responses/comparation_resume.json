@@ -1,0 +1,13 @@
+{
+  "seed":"test",
+  "comparator":"test",
+  "lineal":100.0,
+  "ncslineal":100.0,
+  "levenshtein":100.0,
+  "wlevenshtein":100.0,
+  "damerau":100.0,
+  "winkler":100.0,
+  "cosine":100.0,
+  "jaccard":100.0,
+  "ngram":100.0
+}
