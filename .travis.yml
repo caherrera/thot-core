@@ -7,7 +7,7 @@ services:
 env:
   global:
     CACHE_IMAGE: ruby:2.3.4
-    DOCKER_IMAGE: carlositline/thot-siwa
+    DOCKER_IMAGE: carlositline/thot-core
 
 before_script:
   - docker pull $CACHE_IMAGE || true
