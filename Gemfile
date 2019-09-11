@@ -63,6 +63,6 @@ gem "rest-client"
 # CORS gem
 gem 'rack-cors'
 #Add Ruby style lemontech
-gem 'our_ruby_style'
+# gem 'our_ruby_style'
 #Add mini cache
 gem 'mini_cache'
